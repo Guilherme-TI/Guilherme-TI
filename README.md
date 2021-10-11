@@ -16,6 +16,6 @@
  
 <div> 
  <a href="https://api.whatsapp.com/qr/5CHA6KWMF76CO1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-7289DA?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luizgui086@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
