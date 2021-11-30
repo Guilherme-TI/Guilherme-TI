@@ -9,7 +9,7 @@
   <img align="center" alt="Gui-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="http://pm1.narvii.com/6753/0ba5116d1ac6122fefd272fe9fec01996756516dv2_00.jpg">
+  <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/a74e468780afd7f531ef9a7e025630b5/05cb5cf669d3b73d-b9/s640x960/93b0b3d71540e84f872f19ef2dcbcd116d6daa07.jpg">
 </div>
   
   ##
