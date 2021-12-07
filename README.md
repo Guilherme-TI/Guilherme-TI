@@ -1,15 +1,16 @@
 ## Oiii eu sou o Luiz Guilherme, estudante de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/Guilherme-TI">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-TI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-TI&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-TI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-TI&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Gui-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gui-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <h2>Minhas Skills 💻</h2>
+  <img align="center" alt="Gui-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Gui-Sql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Gui-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gui-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gui-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/a74e468780afd7f531ef9a7e025630b5/05cb5cf669d3b73d-b9/s640x960/93b0b3d71540e84f872f19ef2dcbcd116d6daa07.jpg">
 </div>
   
