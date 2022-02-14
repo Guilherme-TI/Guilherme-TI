@@ -23,13 +23,3 @@
     <img align="center" alt="Gui-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://th.bing.com/th/id/OIP.76D1cis7Pn9oDSA_p50TBgHaHa?pid=ImgDet&w=800&h=800&rs=1">
 </div>
-  
-  ##
- 
-<div> 
-  <h2>Entrar em contato</h2>
-  <a href="https://www.facebook.com/profile.php?id=100076327865461" target="_blank"><img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=jolly" target="_blank"></a>
-    <a href="https://discord.gg/twaBmwb9" target="_blank"><img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=jolly" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/luiz-guilherme-248649226/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=jolly" target="_blank"></a>
- 
-</div>
