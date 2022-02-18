@@ -1,10 +1,6 @@
 ## 👋🏻 Olá, eu sou o Guilherme!
 
 <div>
-  <p>
-    Um Desenvolvedor Web apaixonado por tecnologia, principalmente pelo back-end. <br>
-    Visualize um dos meus projetos: <a href="">Raph bot</a>.
-   </p>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Guilherme">
 </div>
 
