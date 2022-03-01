@@ -1,6 +1,13 @@
 ## 👋🏻 Olá, eu sou o Guilherme!
 
 <div>
+  <p>
+    📚 Um studante de Desenvolvimento Web apaixonado por tecnologia e principalmente pelo back-end.
+    🤖 o meu passatempo é criar bot para o discord e explorar vulnerabilidades web.
+  </p>
+</div>
+
+<div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Guilherme">
 </div>
 
