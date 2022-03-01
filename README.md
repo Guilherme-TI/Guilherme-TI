@@ -2,7 +2,7 @@
 
 <div>
   <p>
-    📚 Um studante de Desenvolvimento Web apaixonado por tecnologia e principalmente pelo back-end.
+    📚 Um studante de Desenvolvimento Web apaixonado por tecnologia e principalmente pelo back-end.<br>
     🤖 o meu passatempo é criar bot para o discord e explorar vulnerabilidades web.
   </p>
 </div>
