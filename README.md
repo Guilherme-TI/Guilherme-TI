@@ -1,7 +1,8 @@
 ## 👋🏻 Olá, eu sou o Guilherme!
 
-<p>Olá, eu me chamo Guilherme, sou tecnico de informatica e Desenvolvedor Front End | React JS | PHP | MySQL | HTML | CSS | JS.<br>
-Sou apaixonado por tecnologia e pretendo aprender cada dia mais nessa área!</p>
+<p>Programador Front End que deseja contribuir com criatividade e inovação, deixando páginas
+web mais dinâmicas e intuitivas. Sou apaixonado por tecnologia e pretendendo aprender cada vez mais sobre esse mercado.
+</p>
   
  <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-TI&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
