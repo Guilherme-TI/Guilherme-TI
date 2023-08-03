@@ -12,10 +12,8 @@ Minha curiosidade insaciável me impulsionou a abraçar os desafios do aprendiza
 
 ## Linguagens e Ferramentas
 <p>
- <img alt="Python" src="https://img.shields.io/badge/Python-007fff?logo=python&logoColor=black&style=for-the-badge" />
- <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-E34F26?logo=jupyter&logoColor=black&style=for-the-badge" />
- <img alt="SQL" src="https://img.shields.io/badge/SQL-1572B6?logo=sql&logoColor=white&style=for-the-badge" />
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-006400?logo=sql&logoColor=white&style=for-the-badge" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=black&style=for-the-badge" />
+  <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Gui-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Gui-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
 </p>
