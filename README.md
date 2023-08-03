@@ -12,10 +12,10 @@ Minha curiosidade insaciável me impulsionou a abraçar os desafios do aprendiza
 
 ## Linguagens e Ferramentas
 <p>
- <img alt="Python" src="https://img.shields.io/badge/Python-479BD8?logo=python&logoColor=white&style=for-the-badge" />
- <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F7DF1E?logo=jupyter&logoColor=black&style=for-the-badge" />
- <img alt="Maria DB" src="https://img.shields.io/badge/Maria DB-E34F26?logo=mariadb&logoColor=white&style=for-the-badge" />
- <img alt="MySql" src="https://img.shields.io/badge/MySQL-1572B6?logo=mysql&logoColor=white&style=for-the-badge" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge" />
+ <img alt="Python" src="https://img.shields.io/badge/Python-007fff?logo=python&logoColor=black&style=for-the-badge" />
+ <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-E34F26?logo=jupyter&logoColor=black&style=for-the-badge" />
+ <img alt="SQL" src="https://img.shields.io/badge/SQL-1572B6?logo=sql&logoColor=white&style=for-the-badge" />
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-006400?logo=sql&logoColor=white&style=for-the-badge" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=black&style=for-the-badge" />
   
 </p>
