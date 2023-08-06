@@ -1,10 +1,10 @@
 ## Guilherme Lucena ☕
 
-<img alt="Guilherme" src="https://static.vecteezy.com/system/resources/previews/011/787/631/non_2x/growing-profit-graph-free-png.png" min-width="400px" max-width="400px" width="400px" align="right" />
+<img alt="Guilherme" src="https://yata-apix-c079b0d8-ab77-43c6-bf8a-8d9a8bbb7749.s3-object.locaweb.com.br/57dd1ebd97064316bf09922ac22899f3.png" min-width="200px" max-width="200px" width="200px" align="right" />
 
-  Meu nome é Guilherme, e sou um jovem apaixonado por tecnologia e ciências exatas. Desde 2019, venho trilhando um emocionante caminho no mundo da programação com um objetivo claro em mente: me tornar um analista de dados excepcional.
+  Meu nome é Guilherme e sou um entusiasta de análise de dados. Atualmente, estou cursando o ensino médio e me dedico intensamente aos estudos para me preparar para uma carreira nessa área tão promissora.
 
-Minha curiosidade insaciável me impulsionou a abraçar os desafios do aprendizado. Ao longo dos anos, mergulhei profundamente nas linguagens de programação e nas ferramentas de análise de dados, sempre em busca de aprimorar minhas habilidades e adquirir novos conhecimentos.<br> Desenvolvedor da plataforma de fotojornalismo de Águas Lindas GO: https://falgo.vercel.app/
+Desde cedo, percebi o poder dos números e da informação que podem ser extraídos deles. Minha paixão pela matemática e a habilidade de encontrar padrões e tendências em dados me impulsionaram a mergulhar no mundo da análise de dados. Durante meus estudos, tenho me aprofundado em estatística, programação e ciência da computação para adquirir as habilidades necessárias para trabalhar com dados de forma eficiente.<br> Desenvolvedor da plataforma de fotojornalismo de Águas Lindas GO: https://falgo.vercel.app/
   
   ## Contato:
   * Linkedin: https://www.linkedin.com/in/luiz-guilherme-9a1664271
