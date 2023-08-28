@@ -1,18 +1,26 @@
-## Guilherme Lucena ☕
+### Olá, Mundo! 👋
 
-<img alt="Guilherme" src="https://yata-apix-c079b0d8-ab77-43c6-bf8a-8d9a8bbb7749.s3-object.locaweb.com.br/57dd1ebd97064316bf09922ac22899f3.png" min-width="200px" max-width="200px" width="200px" align="right" />
+Sou um entusiasta de programação, apaixonado por explorar e criar soluções inovadoras. Minha jornada na programação começou com um simples "Hello, World!" e desde então tenho explorado os limites do mundo digital.
 
-Eu me chamo Guilherme e atualmente estou cursando o ensino médio.
-Desde cedo, percebi o poder dos números e da informação que podem ser extraídos deles. Minha paixão pela matemática e a habilidade de encontrar padrões e tendências em dados me impulsionaram a mergulhar no mundo da análise de dados. Durante meus estudos, tenho me aprofundado em estatística, programação e ciência da computação para adquirir as habilidades necessárias para trabalhar com dados de forma eficiente.<br> Desenvolvedor da plataforma de fotojornalismo de Águas Lindas GO: https://falgo.vercel.app/
-  
-  ## Contato:
+- 🧠 Tenho um fascínio pela análise de dados e adoro transformar números em insights valiosos.
+- 🤖 Também sou um entusiasta de bots e chatbots, acreditando que eles podem tornar a interação digital mais inteligente e amigável.
+- 🌐 Sempre ansioso para aprender e compartilhar conhecimentos com a comunidade de desenvolvedores.
+
+Quando não estou digitando código ou explorando dados, você pode me encontrar em busca da próxima xícara de café perfeita ou resolvendo enigmas com meu bot favorito no Discord!
+
+#### Projetos Destacados:
+- 🤖 [Telettubies](#): Um bot Discord que desafia jogadores com enigmas intrigantes e mantém a competição acirrada.<br/>
+Adicione o bot ao seu servidor através do seguinte link: https://discord.com/oauth2/authorize?scope=bot&client_id=1142502055051808798
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo para discutir projetos interessantes ou apenas trocar ideias. Vamos fazer a próxima linha de código juntos! 👩‍💻🚀
+
   * Linkedin: https://www.linkedin.com/in/luiz-guilherme-9a1664271
-  * Instagram: https://www.instagram.com/lg.cardozo/
 
 ## Linguagens e Ferramentas
 <p>
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Gui-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Gui-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Gui-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
 </p>
