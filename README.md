@@ -4,8 +4,6 @@
 - 🤖 Também sou um entusiasta de bots e chatbots, acreditando que eles podem tornar a interação digital mais inteligente e amigável.
 - 🌐 Sempre ansioso para aprender e compartilhar conhecimentos com a comunidade de desenvolvedores.
 
-Quando não estou digitando código ou explorando dados, você pode me encontrar em busca da próxima xícara de café perfeita ou resolvendo enigmas com meu bot favorito no Discord!
-
 #### Projetos Destacados:
 - 🤖 [Telettubies](#): Um bot Discord que desafia jogadores com enigmas intrigantes e mantém a competição acirrada.<br/>
 Adicione o bot ao seu servidor através do seguinte link: https://discord.com/oauth2/authorize?scope=bot&client_id=1142502055051808798
