@@ -6,7 +6,7 @@
 
 #### Projetos Destacados:
 - 🤖 [Telettubies](#): Um bot Discord que desafia jogadores com enigmas intrigantes e mantém a competição acirrada.<br/>
-Adicione o bot ao seu servidor através do seguinte link: https://discord.com/oauth2/authorize?scope=bot&client_id=1142502055051808798
+- Adicione o bot ao seu servidor através do seguinte link: https://discord.com/oauth2/authorize?scope=bot&client_id=1142502055051808798
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo para discutir projetos interessantes ou apenas trocar ideias. Vamos fazer a próxima linha de código juntos! 👩‍💻🚀
 
